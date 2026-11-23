@@ -1,0 +1,42 @@
+M3 ANIMATION VIDEO - NARRATION SCRIPT
+Topic: Derivative as rate of change using f(x) = x^2
+Target duration: about 4.5 to 5 minutes. Speak slowly and pause briefly when the graph changes.
+
+SLIDE 1 - TITLE
+Hello. This video explains the derivative as a rate of change. We will use the simple curve f of x equals x squared to understand how a curve can have a slope at one exact point.
+
+SLIDE 2 - THE QUESTION
+A straight line has one fixed slope. A curve changes direction as we move along it. So what does slope mean at just one point on a curve? We will answer this for the point P, which is one comma one.
+
+SLIDE 3 - THE TWO POINTS
+Our function is f of x equals x squared. Fix P at x equals one. Since f of one equals one, P is one comma one. Now choose another point Q on the curve, written as a comma a squared. The line through P and Q is a secant line. Its slope gives the average rate of change between these two points.
+
+SLIDE 4 - Q AT THREE
+First, let a equal three. Then Q is three comma nine. The secant slope is nine minus one, divided by three minus one. That is eight divided by two, which equals four. Q is far from P, so this secant line is quite steep.
+
+SLIDE 5 - Q AT TWO
+Now move Q closer by choosing a equal two. Q is two comma four. The slope is four minus one, divided by two minus one, which equals three. The secant line is becoming less steep.
+
+SLIDE 6 - Q AT ONE POINT FIVE
+Move Q closer again. Let a equal one point five. The slope is two point two five minus one, divided by one point five minus one. That is one point two five divided by zero point five, which equals two point five.
+
+SLIDE 7 - Q AT ONE POINT ONE
+Now choose a equal one point one. Q is one point one comma one point two one. The slope is zero point two one divided by zero point one, which equals two point one. Q is now very close to P, and the secant line is almost tangent to the curve.
+
+SLIDE 8 - THE GENERAL CALCULATION
+We can calculate the slope for any a other than one. It is a squared minus one, divided by a minus one. Factor the numerator as a minus one times a plus one. Cancel the common factor a minus one. The result is a plus one. This gives the secant slope for every allowed position of Q.
+
+SLIDE 9 - THE PATTERN
+When a is three, the slope is four. When a is two, it is three. At one point five, it is two point five. At one point one, it is two point one. At one point zero one, it is two point zero one. As a approaches one, the slope approaches two.
+
+SLIDE 10 - THE DERIVATIVE
+The derivative at x equals one is the limit of the secant slope as Q approaches P. Our slope is a plus one. As a approaches one, a plus one approaches two. Therefore, f prime of one equals two. This is the slope of the tangent line at P.
+
+SLIDE 11 - INTERPRETATION
+The tangent line passes through one comma one and has slope two. Using the point-slope formula, y minus one equals two times x minus one. Simplifying gives y equals two x minus one. The derivative two is the instantaneous rate of change at x equals one. Near this point, an increase of zero point one in x gives about zero point two increase in the function value.
+
+SLIDE 12 - SUMMARY
+Remember three things. A secant line joins two points on a curve. As the second point approaches the first, its slope approaches the tangent slope. For f of x equals x squared, the derivative at x equals one is two. Thank you for watching.
+
+RECORDING TIP
+Keep this script beside the presentation and read naturally. Pause briefly after each graph change. Do not try to memorise the whole script.
